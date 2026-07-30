@@ -1,16 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ayushsri19/ayushsri19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ayush Srivastava
 
-Here are some ideas to get you started:
+### BCA Student | Software Developer | AI & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical software solutions through continuous learning and real-world projects.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Bachelor of Computer Applications (BCA) Student
+- 💻 Passionate about Software Development and Problem Solving
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Full Stack Development and Data Structures
+- 📚 Always eager to learn new technologies and build meaningful projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🚁 InsectDrone
+Nano Surveillance System for Military Operations.
+
+### 🤖 Universal Smart Assistant
+AI-powered intelligent assistant with multiple reasoning capabilities.
+
+### 📊 IntelleSense
+Machine Learning based sentiment analysis platform.
+
+### 👶 YouTube Kids Extension
+AI-powered Chrome extension for safer content discovery.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsri19&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsri19&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayushsri19&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
+- Open Source Contribution
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ayushsri19
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
