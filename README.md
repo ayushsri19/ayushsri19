@@ -3,89 +3,78 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=BCA+Student;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=BCA+Student;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 
-# 👋 Hi, I'm Ayush Srivastava
-
-### BCA Student | Software Developer | AI & Machine Learning Enthusiast
-
-Building practical software solutions through continuous learning and real-world projects.
-
-</div>
+<p align="center">
+Passionate about Software Development, Artificial Intelligence, and building practical software solutions.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bachelor of Computer Applications (BCA) Student
-- 💻 Passionate about Software Development and Problem Solving
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Currently learning Full Stack Development and Data Structures
-- 📚 Always eager to learn new technologies and build meaningful projects
+🎓 Bachelor of Computer Applications (BCA) Student
+
+💻 Passionate about Software Development and Problem Solving
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🌱 Currently learning Data Structures & Algorithms, Full Stack Development and Backend Development
+
+🎯 Goal: Build impactful software projects and continuously improve as a developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚁 InsectDrone
-Nano Surveillance System for Military Operations.
+Nano Surveillance System for Military Operations
+
+**Tech Stack:** Python • OpenCV • Machine Learning
+
+---
 
 ### 🤖 Universal Smart Assistant
-AI-powered intelligent assistant with multiple reasoning capabilities.
+AI-powered intelligent assistant with multiple reasoning engines.
+
+**Tech Stack:** Python • FastAPI
+
+---
 
 ### 📊 IntelleSense
-Machine Learning based sentiment analysis platform.
+Machine Learning based Sentiment Analysis Platform.
+
+**Tech Stack:** Python • Machine Learning
+
+---
 
 ### 👶 YouTube Kids Extension
-AI-powered Chrome extension for safer content discovery.
+AI-powered Chrome Extension for safer content discovery.
+
+**Tech Stack:** JavaScript • HTML • CSS
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsri19&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsri19&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsri19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsri19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayushsri19&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=ayushsri19&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -95,18 +84,35 @@ AI-powered Chrome extension for safer content discovery.
 - Data Structures & Algorithms
 - Machine Learning
 - Backend Development
-- Open Source Contribution
+- Full Stack Development
+- Open Source
+
+---
+
+## 🎯 Goals for 2026
+
+- Build high-quality software projects
+- Contribute to Open Source
+- Strengthen DSA & Problem Solving
+- Learn Modern AI Technologies
+- Secure a Software Development Internship
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/ayushsri19
+📧 **Email:** your-email@example.com
+
+💼 **LinkedIn:** *(Add your LinkedIn profile here)*
+
+🌐 **Portfolio:** *(Coming Soon)*
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Improve. Repeat."*
 
 </div>
