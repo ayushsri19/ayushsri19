@@ -2,6 +2,12 @@
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=BCA+Student;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Ayush Srivastava
